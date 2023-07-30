@@ -1,6 +1,6 @@
 # Object Detection with YOLOv3 for Car-Mounted Cameras
 
-![Car-Mounted Camera Object Detection](https://link-to-your-image.com)
+![alt text](https://github.com/TejasKalsait/Object_Detection/blob/main/yolo_example.jpg?raw=true)
 
 This is an object detection project using the YOLOv3 algorithm to identify objects of 80 classes through a camera mounted on a car. The project is implemented in a Jupyter Notebook, making it easy to run and experiment with.
 
@@ -11,8 +11,6 @@ This is an object detection project using the YOLOv3 algorithm to identify objec
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
